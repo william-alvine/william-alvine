@@ -1,5 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=William%20Alvine&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Learner&descAlignY=58" width="100%" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/williamalvine1/williamalvine1/main/banner.svg" alt="William Alvine" width="100%" />
+</p>
+<p align="center">
+  <a href="https://github.com/williamalvine1">GitHub</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://x.com/YOUR_HANDLE">X</a> •
+  <a href="https://www.instagram.com/YOUR_HANDLE">Instagram</a> •
+  <a href="https://www.facebook.com/YOUR_PAGE">Facebook</a> •
+  <a href="https://www.youtube.com/@YOUR_CHANNEL">YouTube</a> •
+  <a href="https://wa.me/254XXXXXXXXX">WhatsApp</a> •
+  <a href="https://t.me/YOUR_HANDLE">Telegram</a> •
+  <a href="https://www.tiktok.com/@YOUR_HANDLE">TikTok</a> •
+  <a href="mailto:williamalvine1@gmail.com">Email</a>
+</p>
 <p align="center">
   <img src="intro.svg" alt="Hi, I'm William Alvine" width="100% />
 </p>
