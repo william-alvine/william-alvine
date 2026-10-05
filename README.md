@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=William%20Alvine&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Learner&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="intro.svg" alt="Hi, I'm William Alvine" width="100%" />
+  <img src="intro.svg" alt="Hi, I'm William Alvine" width="100% />
 </p>
 font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=520&lines=Hi,+I'm+William+👋;Learning+Web+Development;Building+one+project+at+a+time" alt="Typing" />
 </h2>
